@@ -2,6 +2,7 @@ The Rainbow
 
 Red
 Orange
+Alaranjado
 Yellow
 Green
 Blue
