@@ -1,4 +1,4 @@
 # Rainbow-Poem
 This is a repo for my poem
 
-I'm going to make some changes...
+I'm going to make some changes..
